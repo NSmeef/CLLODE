@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: aterm-java-1.6.jar jgrapht-jdk1.5.jar owlapi-distribution-
+ 3.4.4-bin.jar pellet-core.jar pellet-datatypes.jar pellet-el.jar pell
+ et-owlapiv3.jar pellet-rules.jar saxon9he.jar
+Main-Class: com.nice.Main
+
