@@ -7,6 +7,9 @@ Very rough and ready, does what we need it to do, please feel free to contribute
 
 ### Documentation
 
+Java Version - 1.7
+Gradle Version - 2.12
+
 * `gradle build` will compile the solution and create a fat jar. Perform this command where the `gradle.build` file resides.
 * You will find the fat jar in `build/libs/`. 
 * To execute, run - `java -jar ComLLODE.jar <file.(ttl|omn|etc)>`. It will then output the generated `.html` file in the same directory the source file resides.
