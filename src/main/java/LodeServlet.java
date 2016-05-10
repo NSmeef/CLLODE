@@ -81,7 +81,7 @@ import com.clarkparsia.pellet.owlapiv3.PelletReasonerFactory;
 public class LodeServlet extends IOException {
     private static final long serialVersionUID = 1L;
     private String xsltURL = "http://lode.sourceforge.net/xslt";
-    private String cssLocation = "http://eelst.cs.unibo.it/apps/LODE/";
+    private String cssLocation = "//eelst.cs.unibo.it/apps/LODE/";
     private int maxTentative = 3;
 
     public LodeServlet() {
